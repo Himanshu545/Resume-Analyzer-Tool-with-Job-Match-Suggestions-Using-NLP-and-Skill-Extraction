@@ -1,4 +1,4 @@
-Resume Analyzer - ZIP delivered for Jaspreet Kaur
+Resume Analyzer - ZIP delivered for Himanshu Sonkhla
 -----------------------------------------------
 How to run:
 1. Extract the zip to a folder.
